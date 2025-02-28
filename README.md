@@ -39,8 +39,8 @@ Use `nano` to create a new Java file named `SumOfInput.java`.
 Now, how do we run this java program?
 
 ```bash
-javac SumOfInput.java
-java SumOfInput
+javac sum.java
+java sum
 ```
 
 Did it give you the right answer? If not, go back and fix it.
