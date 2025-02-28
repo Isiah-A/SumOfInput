@@ -10,6 +10,7 @@ public class SumOfInput {
         System.out.println(sumNumbers(number));
 
 
+
     }
     public static int sumNumbers(int n) {
         int sum = 0;
